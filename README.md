@@ -1,4 +1,4 @@
-# Dappazon
+# Blockchain_amazon_clone
 
 ## Technology Stack & Tools
 
