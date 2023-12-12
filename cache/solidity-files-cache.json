@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/pedrogonzales/Desktop/Amazon_Clone/dappazon/contracts/Dappazon.sol": {
+      "lastModificationDate": 1701018199125,
+      "contentHash": "25756f4f2bd86c6d773884b0927e3a30",
+      "sourceName": "contracts/Dappazon.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "Dappazon"
+      ]
+    }
+  }
+}
